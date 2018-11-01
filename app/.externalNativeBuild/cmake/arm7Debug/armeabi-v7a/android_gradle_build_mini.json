@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/Users/reasonwhy/workspace/HelloJNI/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/reasonwhy/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/reasonwhy/workspace/HelloJNI/app/.externalNativeBuild/cmake/arm7Debug/armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "hello-jni-Debug-armeabi-v7a": {
+      "artifactName": "hello-jni",
+      "buildCommand": "/Users/reasonwhy/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/reasonwhy/workspace/HelloJNI/app/.externalNativeBuild/cmake/arm7Debug/armeabi-v7a --target hello-jni",
+      "abi": "armeabi-v7a",
+      "output": "/Users/reasonwhy/workspace/HelloJNI/app/build/intermediates/cmake/arm7/debug/obj/armeabi-v7a/libhello-jni.so"
+    }
+  }
+}

@@ -1,0 +1,3 @@
+/Users/reasonwhy/workspace/HelloJNI/app/.externalNativeBuild/cmake/universalRelease/x86_64/CMakeFiles/edit_cache.dir
+/Users/reasonwhy/workspace/HelloJNI/app/.externalNativeBuild/cmake/universalRelease/x86_64/CMakeFiles/rebuild_cache.dir
+/Users/reasonwhy/workspace/HelloJNI/app/.externalNativeBuild/cmake/universalRelease/x86_64/CMakeFiles/hello-jni.dir

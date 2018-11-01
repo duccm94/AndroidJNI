@@ -1,0 +1,38 @@
+
+{
+	"buildFiles" : [ "/Users/reasonwhy/workspace/HelloJNI/app/src/main/cpp/CMakeLists.txt" ],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"/Users/reasonwhy/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/reasonwhy/workspace/HelloJNI/app/.externalNativeBuild/cmake/x86_64Debug/x86_64 --target clean"
+	],
+	"libraries" : 
+	{
+		"hello-jni-Debug-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "hello-jni",
+			"buildCommand" : "/Users/reasonwhy/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/reasonwhy/workspace/HelloJNI/app/.externalNativeBuild/cmake/x86_64Debug/x86_64 --target hello-jni",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android23 --gcc-toolchain=/Users/reasonwhy/Library/Android/sdk/ndk-bundle/toolchains/x86_64-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/reasonwhy/Library/Android/sdk/ndk-bundle/sysroot -Dhello_jni_EXPORTS  -isystem /Users/reasonwhy/Library/Android/sdk/ndk-bundle/sysroot/usr/include/x86_64-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "/Users/reasonwhy/workspace/HelloJNI/app/src/main/cpp/hello-jni.c",
+					"workingDirectory" : "/Users/reasonwhy/workspace/HelloJNI/app/.externalNativeBuild/cmake/x86_64Debug/x86_64"
+				}
+			],
+			"output" : "/Users/reasonwhy/workspace/HelloJNI/app/build/intermediates/cmake/x86_64/debug/obj/x86_64/libhello-jni.so",
+			"toolchain" : "977749595631921603"
+		}
+	},
+	"toolchains" : 
+	{
+		"977749595631921603" : 
+		{
+			"cCompilerExecutable" : "/Users/reasonwhy/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/reasonwhy/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}
